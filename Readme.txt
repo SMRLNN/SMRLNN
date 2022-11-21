@@ -1,6 +1,6 @@
-Python implementation of the paper: Structure Maintained Representation Learning Neural Network for Causal Inference
+# Python implementation of the paper: Structure Maintained Representation Learning Neural Network for Causal Inference
 
-To run the pipeline for training and evaluation on SMRLNN, here is an example (e.g. simulation data from outcome model 3):
+## To run the pipeline for training and evaluation on SMRLNN, here is an example (e.g. simulation data from outcome model 3):
 
 1. Create/Modify config file in "configs" (e.g. n1000out3pps2.txt), where to update the input/output file paths and model hyperparameters.
 
